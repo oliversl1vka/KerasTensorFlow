@@ -77,9 +77,8 @@ Počas spracovania práce boli využité nástroje **ChatGPT** (GPT-4o-mini) a *
 ## 🛠️ Ako spustiť
 
 1. Naklonuj repozitár:
-   ```bash
-   git clone https://github.com/tvoje-meno/nazov-repozitara.git
-   cd nazov-repozitara
+git clone https://github.com/oliversl1vka/KerasTensorFlow.git
+cd KerasTensorFlow
 
 2. Spusť semestralna_praca.ipynb v Jupyter Notebooku.
 
