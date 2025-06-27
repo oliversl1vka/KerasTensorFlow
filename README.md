@@ -83,11 +83,6 @@ Počas spracovania práce boli využité nástroje **ChatGPT** (GPT-4o-mini) a *
 
 2. Spusť semestralna_praca.ipynb v Jupyter Notebooku.
 
-3. (Odporúčané) Vytvor virtuálne prostredie:
-python -m venv venv
-source venv/bin/activate  # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
 ---
 
 ## 📚 Referencie
