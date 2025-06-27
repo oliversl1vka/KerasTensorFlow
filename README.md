@@ -80,7 +80,7 @@ Počas spracovania práce boli využité nástroje **ChatGPT** (GPT-4o-mini) a *
    ```bash
    git clone https://github.com/oliversl1vka/KerasTensorFlow.git
    cd KerasTensorFlow
-Spusť súbor semestralna_praca.ipynb v Jupyter Notebooku.
+2. Spusť súbor semestralna_praca.ipynb v Jupyter Notebooku.
 
 ---
 
