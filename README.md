@@ -46,17 +46,17 @@ Trénovali sme 3 modely:
 
 | Model | Test Accuracy | Test Loss | FN | FP | „Cena modelu“ |
 |-------|---------------|-----------|----|----|----------------|
-| 1     | 80.0 %        | 0.4478    | 20 | 21 | 247            |
-| 2     | 81.0 %        | 0.8900    | 20 | 17 | 218            |
-| 3     | **82.5 %**    | 1.0315    | 22 | 17 | **215**        |
+| 1     | **80.0 %**        | 0.4478    | 20 | 21 | 247            |
+| 2     | 75.5 %        | 0.8900    | 20 | 17 | 218            |
+| 3     | 77.5 %    | 1.0315    | 22 | 17 | 215        |
 
 ---
 
 ## 📌 Závery
 
-- Najlepší model (Model 3) využíva **SGD** optimalizátor s **exponenciálnym znižovaním learning rate**.
+- Najlepší model (Model 1) využíva štandardný **ADAM** optimalizátor s **defaultným learning_rate=0.001**.
 - Model 1 má najnižšiu náchylnosť na overfitting.
-- Model 2 dosahuje slušné výsledky, ale trpí preučením.
+- Modely 2 aj 3 dosahujú tiež slušné výsledky, ale trpia preučením.
 
 ---
 
