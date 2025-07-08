@@ -46,7 +46,7 @@ Trénovali sme 3 modely:
 
 | Model | Test Accuracy | Test Loss | FN | FP | „Cena modelu“ |
 |-------|---------------|-----------|----|----|----------------|
-| 1     | **80.0 %**        | 0.4497    | 19 | 21 | 147            |
+| 1     | **80.0 %**        | 0.4497    | 19 | 21 | **147**            |
 | 2     | 75.5 %        | 0.4715    | 21 | 22 | 238          |
 | 3     | 77.5 %    | 0.4663    | 13 | 23 | 171        |
 
@@ -55,7 +55,7 @@ Trénovali sme 3 modely:
 ## 📌 Závery
 
 - Najlepší model (Model 1) využíva štandardný **ADAM** optimalizátor s **defaultným learning_rate=0.001**.
-- Model 1 má najnižšiu náchylnosť na overfitting.
+- Model 1 má najnižšiu náchylnosť na overfitting a najnižšiu cenu modelu.
 - Modely 2 a 3 dosahujú tiež slušné výsledky, ale model 2 má výrazne vyššiu cenu modelu.
 
 ---
